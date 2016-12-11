@@ -8,10 +8,11 @@
         }
     ],
     "license": "MIT",
+    "keywords": ["bitrix", "битрикс", "router"],
     "repositories": [
 	{
     	    "type": "git",
-    	    "url":  "https://yuriyant@bitbucket.org/yuriyant/bitrix-router-for-local-development.git"
+    	    "url":  "https://git@bitbucket.org/yuriyant/bitrix-router-for-local-development.git"
 	}
     ],
     "require": {
