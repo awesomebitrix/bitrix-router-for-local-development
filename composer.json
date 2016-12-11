@@ -1,0 +1,20 @@
+{
+    "name": "yuriyant/bitrix-router-for-local-development",
+    "description": "Роутер для разработки проектов на CMS Битрикс используя встроенный в PHP сервер. Нет необходимости настраивать Apach/Nginx под каждый проект.",
+    "authors": [
+        {
+            "name": "Yuriy Antokhin",
+            "email": "yuriyant@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "repositories": [
+	{
+    	    "type": "git",
+    	    "url":  "https://yuriyant@bitbucket.org/yuriyant/bitrix-router-for-local-development.git"
+	}
+    ],
+    "require": {
+        "php": ">=5.3"
+    }
+}
